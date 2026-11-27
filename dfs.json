@@ -1,19 +1,19 @@
 {
-    "version": "0.36.0",
+    "version": "0.37.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cubbit/dittofs/releases/download/v0.36.0/dfs_0.36.0_Windows_x86_64.zip",
+            "url": "https://github.com/cubbit/dittofs/releases/download/v0.37.0/dfs_0.37.0_Windows_x86_64.zip",
             "bin": [
                 "dfs.exe"
             ],
-            "hash": "cd6a6d84952bb967eadd059f31442b733ea3d365d66468a91f922a183f54295a"
+            "hash": "0a48a10562f3a41b3f6a797f9a1e9f0c725604f4f2e9922c498e84df0421737b"
         },
         "arm64": {
-            "url": "https://github.com/cubbit/dittofs/releases/download/v0.36.0/dfs_0.36.0_Windows_arm64.zip",
+            "url": "https://github.com/cubbit/dittofs/releases/download/v0.37.0/dfs_0.37.0_Windows_arm64.zip",
             "bin": [
                 "dfs.exe"
             ],
-            "hash": "c61cfff5e2886259a524d604b84ced6ae70fa27f8e1f5307ab9a92689b4f6273"
+            "hash": "5395124cfefda9c5b1a7b2718e14ae50defd55453bdc6800a020a083ec7b1d27"
         }
     },
     "homepage": "https://github.com/cubbit/dittofs",
