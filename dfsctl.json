@@ -1,19 +1,19 @@
 {
-    "version": "0.36.0",
+    "version": "0.37.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cubbit/dittofs/releases/download/v0.36.0/dfsctl_0.36.0_Windows_x86_64.zip",
+            "url": "https://github.com/cubbit/dittofs/releases/download/v0.37.0/dfsctl_0.37.0_Windows_x86_64.zip",
             "bin": [
                 "dfsctl.exe"
             ],
-            "hash": "5fc0ba2c2842716e3f503ea75c8e563574fc9da86755282d8e72771bb863f1f8"
+            "hash": "14e5cbe94dfacbc2fcfd99e51aa801e16a9fe978af5d395e30ecec346f2f518e"
         },
         "arm64": {
-            "url": "https://github.com/cubbit/dittofs/releases/download/v0.36.0/dfsctl_0.36.0_Windows_arm64.zip",
+            "url": "https://github.com/cubbit/dittofs/releases/download/v0.37.0/dfsctl_0.37.0_Windows_arm64.zip",
             "bin": [
                 "dfsctl.exe"
             ],
-            "hash": "33fe43ce43421c20c922d3e48daca2283cf9cfe6426c69a6239ffbf247083660"
+            "hash": "15489952c3d16c62838bfb3cc269773c65bbb2a1b17c1594d800b0664618204d"
         }
     },
     "homepage": "https://github.com/cubbit/dittofs",
